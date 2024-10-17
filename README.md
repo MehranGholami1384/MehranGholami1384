@@ -5,7 +5,14 @@
 
 ### My activity:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MehranGholami1384&show_icons=true&theme=dark)
+![Mehran Gholami's GitHub stats](https://github-readme-stats.vercel.app/api?username=MehranGholami1384&show_icons=true&theme=transparent&bg_color=111827&text_color=ffffff)
+
+<br>
+
+### My Projects:
+
+[![My Projects](https://github-readme-stats.vercel.app/api/pin/?username=MehranGholami1384&repo=Personal-Website&bg_color=111827&text_color=ffffff)](https://github.com/MehranGholami1384/Personal-Website)
+[![My Projects](https://github-readme-stats.vercel.app/api/pin/?username=MehranGholami1384&repo=sabzlearn&bg_color=111827&text_color=ffffff&show_icons=true&theme=transparent)](https://github.com/MehranGholami1384/sabzlearn)
 
 <br>
 
