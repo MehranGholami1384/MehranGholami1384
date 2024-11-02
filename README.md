@@ -11,8 +11,9 @@
 
 ### My Projects:
 
-[![My Projects](https://github-readme-stats.vercel.app/api/pin/?username=MehranGholami1384&repo=Personal-Website&bg_color=111827&text_color=ffffff)](https://github.com/MehranGholami1384/Personal-Website)
 [![My Projects](https://github-readme-stats.vercel.app/api/pin/?username=MehranGholami1384&repo=sabzlearn&bg_color=111827&text_color=ffffff&show_icons=true&theme=transparent)](https://github.com/MehranGholami1384/sabzlearn)
+[![My Projects](https://github-readme-stats.vercel.app/api/pin/?username=MehranGholami1384&repo=barista&bg_color=111827&text_color=ffffff)](https://github.com/MehranGholami1384/barista)
+[![My Projects](https://github-readme-stats.vercel.app/api/pin/?username=MehranGholami1384&repo=Personal-Website&bg_color=111827&text_color=ffffff)](https://github.com/MehranGholami1384/Personal-Website)
 
 <br>
 
